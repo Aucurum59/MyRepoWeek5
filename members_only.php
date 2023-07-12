@@ -260,7 +260,7 @@ if (!isset($_POST['module1'])) {
   }
   ?>
 
-  <p><a href="authmain.php">Back to Home Page</a></p>
+  <p><a href="authmain.php"> Click to go Back to Home Page</a></p>
 
 </body>
 </html>
